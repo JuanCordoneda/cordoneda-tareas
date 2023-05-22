@@ -36,3 +36,6 @@ DB_PASSWORD=
 ### Visualización del Proyecto
 
 Para ver el proyecto, acceder a http://localhost:4200/.
+
+![image](https://github.com/JuanCordoneda/cordoneda-tareas/assets/71473532/244f4956-c67c-425a-9895-ad50aa64e945)
+
